@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GeneratorOTP/app/src/main/res/drawable/bg.xml" value="0.2265" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GeneratorOTP/app/src/main/res/drawable/btrbg.xml" value="0.2265" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GeneratorOTP/app/src/main/res/drawable/inputtext.xml" value="0.2265" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GeneratorOTP/app/src/main/res/drawable/otpdesign.xml" value="0.2555" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GeneratorOTP/app/src/main/res/layout/activity_get_otp.xml" value="0.25" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GeneratorOTP/app/src/main/res/layout/activity_main.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/guddu/AndroidStudioProjects/GeneratorOTP/app/src/main/res/layout/activity_verify_otp.xml" value="0.21331521739130435" />
+        <entry key="..\:/Users/guddu/Downloads/OTP_verification-master/OTP_verification-master/app/src/main/res/layout/activity_get_otp.xml" value="0.17708333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
